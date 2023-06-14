@@ -12,10 +12,15 @@
 
 ## General Information
 -Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
+
 -Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). 
+
 -Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed.
+
 -In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters’.
+
 -Aim of this case study is Identify the risky loan applicants using Exploratory Data Analysis, then such loans can be reduced thereby cutting down the amount of credit loss.
+
 -Lending Club wants to understand the driving factors behind loan default and identify the variables which are strong indicators of default.
 
 
