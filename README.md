@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > This project is to identify the risky loan applicants using Exploratory Data Analysis, then such loans can be reduced thereby cutting down the amount of credit loss.
 
 
