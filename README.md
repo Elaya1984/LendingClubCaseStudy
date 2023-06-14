@@ -28,14 +28,14 @@
 
 ## Conclusions
 
-#Observations
+###Observations
 
     The interest rate for charged off loans is higher , compared to that of fully paid loans in all the groups. This is a driving factor for loan defaulting.
     The Loan is higher for all the income groups ,people who defaulted.
     The number of loans defaulted are the highest in the loan pupose"debt_consolation",But  the annual income is not the highest.
     The loan was sanctioned/issued in December are maximum defaulted and  Loans issued in the year 2011 are also higher comparing other years
     Employees with highest tenure in an organization got higher Loan amount.
-#Recommendations
+###Recommendations
 
     Modest interest for all types of loan would help in minimizing load default rate 
     Higher income group and lower income group , moderate loan amount would help in reducing defaulters 
